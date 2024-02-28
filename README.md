@@ -1,2 +1,2 @@
 # Countdown-timer
-An Iphone giveaway countdown 
+An Iphone giveaway countdown by Fiyin
